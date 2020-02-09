@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{MGsB:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),r=t("rY4l");n.default=function(){return l.a.createElement("div",null,l.a.createElement(r.a,null),l.a.createElement("h1",null,"Contato"))}},rY4l:function(e,n,t){"use strict";var a=t("q1tI"),l=t.n(a);n.a=function(){return l.a.createElement("div",null,l.a.createElement("h1",null,"Ola Power 1.0"))}}}]);
+//# sourceMappingURL=component---src-pages-contato-js-bcc96d0d5802d6d402d3.js.map

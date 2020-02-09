@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),c=t.n(a);e.default=function(){return c.a.createElement("h1",null,"Ola Power")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-4e751a02cab804c9166e.js.map

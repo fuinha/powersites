@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["Index"],"mappings":"2FAAA,gCAQeA,UAND,WAEV,OAAS","file":"component---src-pages-index-js-4e751a02cab804c9166e.js","sourcesContent":["import React from 'react'\n\nconst Index = () => {\n\n    return   <h1>Ola Power</h1> // jsx\n    \n};\n\nexport default Index"],"sourceRoot":""}
